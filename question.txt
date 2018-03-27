@@ -1,0 +1,10 @@
+write a sql quary who got to selelct the students <40 in any subject 
+2. wite a sql quary lti selksct the student who ngot distinction. 
+3. wrirte a sql quary to prin the subjects with their teacher.
+4. write a sql quary to select the teacger who tought more than 1 sub or 2 sub.
+5. write a sql quary to select the deparetment who have largest number of student in a university.
+6. write a sql quary to select the teacher or staff who got maximum salary in a university.
+7. write a sql quary to list the parcticals with their lab number.
+8. write a sql quary to select the stdent who got 10th rank in a university according to the %.
+9. write a sql quary to select the teacher who have some position in a university.
+10. list the students those are using hostel facility.
