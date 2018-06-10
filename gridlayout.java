@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-class gridlayout
+class gridlayout implements ActionListener
 {
 	JFrame f;
 	JTextField tf;
@@ -21,7 +21,7 @@ class gridlayout
 		tf.setBounds(150,40,100,100);
 			
 			f.add(tf);
-		    f.add(b1);
+		        f.add(b1);
 			f.add(b2);
 			f.add(b3);
 			f.add(b4);
